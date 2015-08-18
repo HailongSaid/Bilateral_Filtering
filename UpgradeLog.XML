@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="qx_cvpr09_ctbf">
+</Property><Property Name="解决方案文件" Value="C:\Users\pengw\Desktop\88968037qx_cvpr09_ctbf\qx_cvpr09_ctbf.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\pengw\Desktop\88968037qx_cvpr09_ctbf\qx_cvpr09_ctbf.suo">
+</Property><Property Name="Date" Value="2013年11月4日">
+</Property><Property Name="Time" Value="21:28">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="qx_cvpr09_ctbf.sln" Description="文件已成功备份为 C:\Users\pengw\Desktop\88968037qx_cvpr09_ctbf\qx_cvpr09_ctbf.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="qx_cvpr09_ctbf.suo" Description="文件已成功备份为 C:\Users\pengw\Desktop\88968037qx_cvpr09_ctbf\qx_cvpr09_ctbf.suo.old">
+</Event><Event ErrorLevel="0" Project="qx_cvpr09_ctbf" Source="qx_cvpr09_ctbf.vcproj" Description="Converting project file 'C:\Users\pengw\Desktop\88968037qx_cvpr09_ctbf\qx_cvpr09_ctbf.vcproj'.">
+</Event><Event ErrorLevel="1" Project="qx_cvpr09_ctbf" Source="qx_cvpr09_ctbf.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="1" Project="qx_cvpr09_ctbf" Source="qx_cvpr09_ctbf.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="qx_cvpr09_ctbf" Source="qx_cvpr09_ctbf.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="qx_cvpr09_ctbf" Source="qx_cvpr09_ctbf.vcproj" Description="Web deployment to the local IIS server is no longer supported. The Web Deployment build tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="qx_cvpr09_ctbf" Source="qx_cvpr09_ctbf.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="qx_cvpr09_ctbf" Source="qx_cvpr09_ctbf.vcproj" Description="Done converting to new project file 'C:\Users\pengw\Desktop\88968037qx_cvpr09_ctbf\qx_cvpr09_ctbf.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="qx_cvpr09_ctbf" Source="qx_cvpr09_ctbf.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="qx_cvpr09_ctbf.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="qx_cvpr09_ctbf.sln" Description="Converted">
+</Event></UpgradeLog>

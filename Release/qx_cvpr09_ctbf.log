@@ -1,0 +1,66 @@
+﻿生成启动时间为 2013/11/4 21:29:03。
+     1>项目“C:\Users\pengw\Desktop\88968037qx_cvpr09_ctbf\qx_cvpr09_ctbf.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\qx_cvpr09_ctbf.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt qx_cvpr09_ctbf_basic.cpp qx_ppm.cpp qx_constant_time_bilateral_filter.cpp qx_cvpr09_ctbf_main.cpp
+         qx_cvpr09_ctbf_basic.cpp
+     1>c:\users\pengw\desktop\88968037qx_cvpr09_ctbf\qx_cvpr09_ctbf_basic.h(40): warning C4244: “return”: 从“float”转换到“unsigned char”，可能丢失数据
+     1>c:\users\pengw\desktop\88968037qx_cvpr09_ctbf\qx_cvpr09_ctbf_basic.h(41): warning C4244: “return”: 从“float”转换到“unsigned char”，可能丢失数据
+     1>c:\users\pengw\desktop\88968037qx_cvpr09_ctbf\qx_cvpr09_ctbf_basic.h(42): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\pengw\desktop\88968037qx_cvpr09_ctbf\qx_cvpr09_ctbf_basic.h(43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\pengw\desktop\88968037qx_cvpr09_ctbf\qx_cvpr09_ctbf_basic.h(45): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>qx_cvpr09_ctbf_basic.cpp(223): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>qx_cvpr09_ctbf_basic.cpp(235): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>qx_cvpr09_ctbf_basic.cpp(236): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+         qx_ppm.cpp
+     1>c:\users\pengw\desktop\88968037qx_cvpr09_ctbf\qx_cvpr09_ctbf_basic.h(40): warning C4244: “return”: 从“float”转换到“unsigned char”，可能丢失数据
+     1>c:\users\pengw\desktop\88968037qx_cvpr09_ctbf\qx_cvpr09_ctbf_basic.h(41): warning C4244: “return”: 从“float”转换到“unsigned char”，可能丢失数据
+     1>c:\users\pengw\desktop\88968037qx_cvpr09_ctbf\qx_cvpr09_ctbf_basic.h(42): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\pengw\desktop\88968037qx_cvpr09_ctbf\qx_cvpr09_ctbf_basic.h(43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\pengw\desktop\88968037qx_cvpr09_ctbf\qx_cvpr09_ctbf_basic.h(45): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+         qx_constant_time_bilateral_filter.cpp
+     1>c:\users\pengw\desktop\88968037qx_cvpr09_ctbf\qx_cvpr09_ctbf_basic.h(40): warning C4244: “return”: 从“float”转换到“unsigned char”，可能丢失数据
+     1>c:\users\pengw\desktop\88968037qx_cvpr09_ctbf\qx_cvpr09_ctbf_basic.h(41): warning C4244: “return”: 从“float”转换到“unsigned char”，可能丢失数据
+     1>c:\users\pengw\desktop\88968037qx_cvpr09_ctbf\qx_cvpr09_ctbf_basic.h(42): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\pengw\desktop\88968037qx_cvpr09_ctbf\qx_cvpr09_ctbf_basic.h(43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\pengw\desktop\88968037qx_cvpr09_ctbf\qx_cvpr09_ctbf_basic.h(45): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>qx_constant_time_bilateral_filter.cpp(24): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>qx_constant_time_bilateral_filter.cpp(24): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>qx_constant_time_bilateral_filter.cpp(60): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>qx_constant_time_bilateral_filter.cpp(60): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>qx_constant_time_bilateral_filter.cpp(96): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>qx_constant_time_bilateral_filter.cpp(96): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>qx_constant_time_bilateral_filter.cpp(97): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>qx_constant_time_bilateral_filter.cpp(97): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>qx_constant_time_bilateral_filter.cpp(120): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+     1>qx_constant_time_bilateral_filter.cpp(156): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>qx_constant_time_bilateral_filter.cpp(156): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+     1>qx_constant_time_bilateral_filter.cpp(192): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>qx_constant_time_bilateral_filter.cpp(192): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>qx_constant_time_bilateral_filter.cpp(193): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>qx_constant_time_bilateral_filter.cpp(193): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+         qx_cvpr09_ctbf_main.cpp
+     1>c:\users\pengw\desktop\88968037qx_cvpr09_ctbf\qx_cvpr09_ctbf_basic.h(40): warning C4244: “return”: 从“float”转换到“unsigned char”，可能丢失数据
+     1>c:\users\pengw\desktop\88968037qx_cvpr09_ctbf\qx_cvpr09_ctbf_basic.h(41): warning C4244: “return”: 从“float”转换到“unsigned char”，可能丢失数据
+     1>c:\users\pengw\desktop\88968037qx_cvpr09_ctbf\qx_cvpr09_ctbf_basic.h(42): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>c:\users\pengw\desktop\88968037qx_cvpr09_ctbf\qx_cvpr09_ctbf_basic.h(43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>c:\users\pengw\desktop\88968037qx_cvpr09_ctbf\qx_cvpr09_ctbf_basic.h(45): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\pengw\Desktop\88968037qx_cvpr09_ctbf\Release\qx_cvpr09_ctbf.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\qx_cvpr09_ctbf.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\pengw\Desktop\88968037qx_cvpr09_ctbf\Release\qx_cvpr09_ctbf.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\pengw\Desktop\88968037qx_cvpr09_ctbf\Release\qx_cvpr09_ctbf.lib" /MACHINE:X86 Release\qx_cvpr09_ctbf_basic.obj
+         Release\qx_ppm.obj
+         Release\qx_constant_time_bilateral_filter.obj
+         Release\qx_cvpr09_ctbf_main.obj
+         正在生成代码
+         已完成代码的生成
+         qx_cvpr09_ctbf.vcxproj -> C:\Users\pengw\Desktop\88968037qx_cvpr09_ctbf\Release\qx_cvpr09_ctbf.exe
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\pengw\Desktop\88968037qx_cvpr09_ctbf\Release\qx_cvpr09_ctbf.exe;#1" /manifest Release\qx_cvpr09_ctbf.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\qx_cvpr09_ctbf.unsuccessfulbuild”。
+         正在对“Release\qx_cvpr09_ctbf.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\pengw\Desktop\88968037qx_cvpr09_ctbf\qx_cvpr09_ctbf.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.40
